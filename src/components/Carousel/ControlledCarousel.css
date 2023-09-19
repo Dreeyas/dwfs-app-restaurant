@@ -1,0 +1,58 @@
+.aboutus{
+  background: var(--black);
+}
+
+.carousel {
+  background-color: var(--black);
+}
+
+.carousel-title {
+  font-weight: 900;
+  font-size: 3.3rem;
+  line-height: 4rem;
+  text-align: center;
+  color: var(--secondary);
+}
+
+.carousel-title>span{
+  color: var(--purple);
+}
+
+.carousel-item img {
+  display: block;
+  margin: 0 auto;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.76);
+  color: rgba(255, 255, 255, 0.781);
+  border-radius: 5px;
+  padding-left: 5%;
+  padding-right: 5%;
+  border: 2px solid rgba(255, 255, 255, 0.781);
+}
+
+
+@media screen and (max-width: 425px) {
+
+  .carousel-title {
+    font-size: 2rem;
+    line-height: 2rem;
+ 
+  }
+
+  .slider-title1{
+    font-size: 20px;
+  }
+
+  .slider-title2{
+    font-size: 20px;
+  }
+
+  .slider-p{
+    font-size: 13px;
+  }
+
+
+
+}

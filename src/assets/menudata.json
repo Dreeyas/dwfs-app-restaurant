@@ -1,0 +1,75 @@
+[
+    {
+        "dish": "Classic Tonkotsu Ramen",
+        "description": "Rich and creamy pork bone broth with chashu pork, marinated soft-boiled egg, and green onions.",
+        "image": "./food1.jpg"
+    },
+
+    {
+        "dish": "Spicy Miso Ramen",
+        "description": "A hearty miso-based broth with ground pork, bean sprouts, corn, and spicy chili oil.",
+        "image":"./food2.jpg"
+    },
+
+    {
+        "dish": "Shoyu Ramen",
+        "description": "A clear soy sauce-based broth with sliced roast chicken, bamboo shoots, and nori seaweed.",
+        "image":"./food3.jpg"
+    },
+
+    {
+        "dish": "Vegetarian Ramen",
+        "description": "A flavorful vegetable broth with tofu, assorted seasonal vegetables, and a choice of noodles.",
+        "image":"./food4.jpg"
+    },
+
+    {
+        "dish": "Seafood Ramen",
+        "description": "A seafood-infused broth with shrimp, mussels, squid, and fish, garnished with green onions and cilantro.",
+        "image":"./food5.jpg"
+    },
+
+    {
+        "dish": "Tantanmen",
+        "description": "A spicy Szechuan-style ramen with ground pork, bok choy, and a peanut-sesame sauce.",
+        "image":"./food6.jpg"
+    },
+
+    {
+        "dish": "Ramen Salad Bowl",
+        "description": "Chilled ramen noodles served over mixed greens, with grilled chicken, sesame dressing, and crispy wonton strips.",
+        "image":"./food7.jpg"
+    },
+
+    {
+        "dish": "Build-Your-Own Ramen",
+        "description": "Customers can customize their ramen by choosing their preferred broth, protein, noodles and toppings.",
+        "image":"./food8.jpg"
+    },
+
+    {
+        "dish": "Yuzu Lemonade",
+        "description": "A creation with a zesty lemonade by mixing fresh yuzu juice with lemon juice, simple syrup, and sparkling water for a fizzy, tangy drink.",
+        "image":"./food9.jpg"
+    },
+
+    {
+        "dish": "Sakura Blossom Sake Cocktail",
+        "description": "A mix of sake with cherry blossom syrup and a splash of sparkling water. Garnished with a maraschino cherry for a delicious floral note.",
+        "image":"./food10.jpg"
+    },
+
+    {
+        "dish": "Ginger Lychee Fizz",
+        "description": "This effervescent drink combines lychee juice, ginger syrup, and soda water. It's sweet, tangy, and has a pleasant ginger kick.",
+        "image":"./food11.jpg"
+    },
+
+    {
+        "dish": "Genmaicha Tea",
+        "description": "Genmaicha is a traditional Japanese green tea blended with roasted brown rice. It has a nutty, earthy flavor with a hint of sweetness from the rice.",
+        "image":"./food12.jpg"
+    }
+
+
+]

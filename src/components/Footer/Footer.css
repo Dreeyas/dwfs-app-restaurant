@@ -1,0 +1,39 @@
+.f-container {
+    justify-content: space-around;
+    background: var(--black);
+    min-width: 100%;
+}
+
+.f-left {
+    gap: 1rem;
+
+}
+
+.f-left>img {
+    height: 400px;
+    width: 400px;
+}
+
+.f-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-top: 0.5rem;
+}
+.f-menu>span {
+ color: var(--purple);
+}
+
+@media screen and (max-width: 425px) {
+    .f-left>img {
+        height: 300px;
+        width: 300px;
+    }
+
+    .f-menu {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-top: 0.1rem;}
+}

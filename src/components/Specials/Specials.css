@@ -1,0 +1,26 @@
+.s-container {
+    justify-content: space-between;
+    gap: 1rem;
+    background: var(--black);
+    min-width: 100%;
+
+}
+
+.s-container>img {
+    width: 16rem;
+    background: var(--black);
+
+
+}
+
+
+@media screen and (max-width: 425px) {
+
+    .s-container>img {
+        width: 10rem;
+        background: var(--black);
+
+
+    }
+
+}

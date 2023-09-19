@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Mitsui Nakamura",
+        "location": "From Kioto, Japan",
+        "description": "Master in crafting artisanal ramen noodles. Hiroshi is known for his skill in creating al dente noodles that perfectly complement various broth varieties. His passion for ramen is inspired by the secrets passed down through generations in his family, and his goal is to share the tradition and authenticity of this iconic Japanese dish with the world."
+    },
+
+
+    {
+        "name": "Ha-Yoon Choi",
+        "location": "From Seoul, South Korea",
+        "description": "He is an expert in blending Korean flavors and culinary techniques into ramen soups. Ha-Yoon has spent years perfecting his ability to balance the spiciness of Korean cuisine with the smoothness of Japanese ramen. His passion for ramen stems from his love for culinary exploration and the idea that flavors can unite cultures."
+    },
+
+    {
+        "name": "Ayane Tanaka",
+        "location": "From Osaka. Japan",
+        "description": "Master in creating rich and savory broths. Ayane takes pride in using authentic ingredients and traditional methods to perfect her ramen broths. Her passion dates back to her childhood when her grandmother taught her the secrets of family ramen recipes. For her, each bowl is a culinary work of art that tells a unique story."
+    },
+
+
+    {
+        "name": "Ji-Yeon Park",
+        "location": "From Busan, South Korea",
+        "description": "She is an expert in preparing unique toppings and garnishes for ramen. Ji-Yeon has dedicated herself to experimenting with traditional Korean ingredients to create tasty accompaniments that enhance the ramen experience. Her passion stems from the idea that ramen can be an exciting and creative flavor palette that challenges diners' expectations."
+    }
+]
