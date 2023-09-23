@@ -3,18 +3,21 @@
         "dish": "Classic Tonkotsu Ramen",
         "description": "Rich and creamy pork bone broth with chashu pork, marinated soft-boiled egg, and green onions.",
         "image": "./food1.jpg"
+        
     },
 
     {
         "dish": "Spicy Miso Ramen",
         "description": "A hearty miso-based broth with ground pork, bean sprouts, corn, and spicy chili oil.",
         "image":"./food2.jpg"
+
     },
 
     {
         "dish": "Shoyu Ramen",
         "description": "A clear soy sauce-based broth with sliced roast chicken, bamboo shoots, and nori seaweed.",
         "image":"./food3.jpg"
+
     },
 
     {

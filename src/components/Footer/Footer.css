@@ -25,6 +25,12 @@
  color: var(--purple);
 }
 
+.social{
+    display: flex;
+    padding-top: 10px;
+    gap: 1rem;
+}
+
 @media screen and (max-width: 768px) {
     .f-left>img {
         height: 300px;
