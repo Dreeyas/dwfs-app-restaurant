@@ -25,6 +25,14 @@
  color: var(--purple);
 }
 
+@media screen and (max-width: 768px) {
+    .f-left>img {
+        height: 300px;
+        width: 300px;
+}
+}
+
+
 @media screen and (max-width: 425px) {
     .f-left>img {
         height: 300px;

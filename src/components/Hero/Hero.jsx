@@ -13,8 +13,8 @@ const Hero = () => {
                             straight from Asia!</h1>
                     </div>
                     <div className="flexColStart hero-des">
-                        <span>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."</span>
-                        <span>"Ut enim ad minim veniam, quis nostrud exercitation ullamco"</span>
+                        <span>"A dream born of four chef friends comes to the city with unparalleled flavors."</span>
+                        <span>"A journey through magical broths loaded with flavor and ancestral culture."</span>
                     </div>
                     <div className="text-center">
                         <button className='button'>
