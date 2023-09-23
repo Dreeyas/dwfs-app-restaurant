@@ -78,7 +78,7 @@ function Booking() {
       ) : (
         showSuccessMessage ? (
           <div className={`success-message ${showSuccessMessage ? 'show' : ''}`}>
-            Tu reserva fue hecha con éxito.
+            Your reservation was made successfully.
           </div>
         ) : (
           <Form onSubmit={handleSubmit}>

@@ -3,10 +3,8 @@
   --secondary: rgba(255, 255, 255, 0.78);
   --black: #131110;
   --blue-gradient: linear-gradient(90deg, rgba(253,46,216,1) 0%, rgba(69,179,246,1) 80%, rgba(23,214,255,1) 100%);
-  --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
   --purple: #8B88F2;
   --lightBlue: #eeeeff;
-  --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
 }
 
 * {
@@ -75,11 +73,6 @@ a {
 .secondaryText {
   color: rgb(140 139 139);
   font-size: 0.9rem;
-}
-.orangeText {
-  color: orange;
-  font-size: 1.5rem;
-  font-weight: 600;
 }
 
 .button {
